@@ -1,0 +1,13 @@
+{
+  "description": "Add year to top panel", 
+  "name": "Add Year to Top Panel", 
+  "original-authors": [
+    "gaanzz11@gmail.com"
+  ], 
+  "shell-version": [
+    "3.32"
+  ], 
+  "url": "https://gitlab.com/Ricardoengitlab/gnome-extensions", 
+  "uuid": "add-year-toppanel@arch.com", 
+  "version": 1
+}
