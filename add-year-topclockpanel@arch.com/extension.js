@@ -20,7 +20,7 @@ function enable() {
 }
 
 function disable() {
-    Main.panel._centerBox.remove_child(button);
+    Main.panel.statusArea.dateMenu.get_children()[0].remove_child(label);
     clock.disconnect(clock_signal_id);
 }
 

@@ -24,7 +24,6 @@ function enable() {
 }
 
 function disable() {
-    powerIndicator.remove_child(label);
     clock.disconnect(clock_signal_id);
 }
 

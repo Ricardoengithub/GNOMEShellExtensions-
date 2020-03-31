@@ -1,6 +1,6 @@
 {
-  "description": "Add year to top panel", 
-  "name": "Add Year to Top Panel", 
+  "description": "Alert to top panel", 
+  "name": "Alert to Top Panel", 
   "original-authors": [
     "gaanzz11@gmail.com"
   ], 
@@ -8,6 +8,6 @@
     "3.32"
   ], 
   "url": "https://gitlab.com/Ricardoengitlab/gnome", 
-  "uuid": "add-year-toppanel@arch.com", 
+  "uuid": "alert-toppanel@arch.com", 
   "version": 1
 }
